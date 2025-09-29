@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#f7f0df"/>
+  <g fill="#1e8d42">
+    <text x="66" y="282" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="150" font-weight="700" letter-spacing="4">PROSPR</text>
+    <path d="M383 171h69v69h-27v-26l-63 63-20-20 63-63h-22z"/>
+  </g>
+</svg>
